@@ -7,3 +7,4 @@ filetype plugin indent on
 set encoding=utf-8
 set clipboard=unnamedplus
 set laststatus=2
+set noshowmode
